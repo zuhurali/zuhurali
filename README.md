@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zuhurali
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning cybersecurity.
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: zuhurey11@gmail.com
 - 😄 Pronouns: she/her
